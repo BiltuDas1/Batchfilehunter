@@ -1,4 +1,5 @@
 # Batch File Hunter
+[![Open Source Helpers](https://www.codetriage.com/biltudas1/batchfilehunter/badges/users.svg)](https://www.codetriage.com/biltudas1/batchfilehunter)
 ### What is Batch file Hunter?  
 Batch file hunter is a program which find out dangerous commands into batch file and prevent user from opening batch file from untrusted source. (Recommended for those who don't have knowledge about batch file)
 
