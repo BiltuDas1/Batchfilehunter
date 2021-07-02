@@ -43,6 +43,3 @@ Unsafe.bat
 
 
 Source : [How to detect a batch file is safe or not](https://www.stopback.tk/2020/11/how-to-know-that-batch-file-is-safe-or.html)
-
-# Contact
-If you still any issue then you can contact me at [STOPBACK](https://www.stopback.tk/p/contact-us.html)
